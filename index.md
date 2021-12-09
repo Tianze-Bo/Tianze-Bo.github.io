@@ -9,7 +9,7 @@
       <p><b>Taiyuan,Shanxi,China</b></p>
     </td>
     <td width="25%">
-      <img src="/2.png" width="100%">      % 插入证件照代码
+      <img src="/2.png" width="200%">      Me in highschool
     </td>
   </tr>
 </table>
