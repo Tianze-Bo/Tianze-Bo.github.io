@@ -2,10 +2,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cye-nm">
 <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" href="./images/favicon.ico">
+<link rel="shortcut icon" href="./2.png">
 	
-<meta name="keywords" content="Tianze Bo, Tianze Bo, TJUT, Tianze Bo, 薄添泽, Tianze Bo, Tianze Bo, Tianze Bo, Tianze Bo, TJUT, Tianjin">
-<meta name="description" content="Tianze Bo&#39;s Home Page">
+<meta name="keywords" content="tianzebo, TianzeBO, TJUT, TianzeBO, 薄添泽, BO Tianze, BO TIANZE, bo tianze, Tianze BO, TJUT，天津">
+<meta name="description" content="Zhe WANG&#39;s Home Page">
+<!--<meta name="360-site-verification" content="d423d8da2550ca5def68c898ec0f4a36" />-->
 <link rel="stylesheet" href="./css/jemdoc.css" type="text/css">
 
 <title>Tianze BO | 薄添泽</title>
@@ -58,7 +59,6 @@ html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body
         <a href="#publications">Publications</a>
         <a href="#awards">Awards</a>
         <a href="#skills">Skills</a>
-        <a href="./share/Curriculum Vitae.pdf" target="_blank">CV</a>
     </div>
 </nav>-->
 	
@@ -69,25 +69,25 @@ html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body
     <tr>
       <td width="670">
         <div id="toptitle">
-          <h1>Zhe WANG&nbsp;王哲</h1>  <br><br>
+          <h1>Tianze BO&nbsp;薄添泽</h1>  <br><br>
           <h4><rem>FORTI NINIL DIFFICILE<br>VIRTUTE FORTUNA COMES<br>VENI, VIDI, VICI</br></rem></h4>
           <!--<h4><rem>VIRTUTE FORTUNA COMES</rem></h4>-->
           <!--<h4><rem>VENI, VIDI, VICI</rem></h4>-->
         
-        <h3>Undergraduate Student</a></h3>
+        <h3>Undergrad Student</a></h3>
         <p>
-          <a href='https://www.polyu.edu.hk/comp/' target="_blank">Department of Computing</a>  <br>
-          <a href='https://www.polyu.edu.hk/' target="_blank">The Hong Kong Polytechnic University</a>  <br>
-          <a href=" " target="_blank">Kowloon, Hong Kong</a><br>
+          <a href='cs.tjut.edu.cn' target="_blank">School of Computer Science and Engineering</a>  <br>
+          <a href='www.tjut.edu.cn' target="_blank">Tianjin University of Technology</a>  <br>
+          <a href=" " target="_blank">Xiqing, Tianjin</a><br>
           <br>
-          Email: <a href="mailto:lionel.wang@connect.polyu.hk" target="_blank">lionel.wang@connect.polyu.hk</a><br>
-	        Curriculum Vitae: <a href=" " target="_blank"><img src="./images/cv.png" height="20px" style="margin-bottom:-3px"></a><br>
+          Email: <a href="mailto:joelwinston@stud.tjut.edu.cn" target="_blank">joelwinston@stud.tjut.edu.cn</a><br>
+	        Curriculum Vitae: <a href=" " target="_blank"><img src="" height="20px" style="margin-bottom:-3px"></a><br>
 	  
         
         </p>
         <p>
           </div>
-	<a href="mailto:lionel.wang@connect.polyu.hk" target="_blank"><img src="./images/mail.jpeg" height="30px" style="margin-bottom:-3px"></a>
+	<a href="mailto:joelwinston@stud.tjut.edu.cn" target="_blank"><img src="./images/mail.jpeg" height="30px" style="margin-bottom:-3px"></a>
    <a href=" " target="_blank"><img src="./images/phone.png" height="30px" style="margin-bottom:-3px"></a>
 	<a href=" " target="_blank"><img src="./images/github.jpeg" height="30px" style="margin-bottom:-3px"></a>
   <a href=" " target="_blank"><img src="./images/researchgate.png" height="30px" style="margin-bottom:-3px"></a>
@@ -107,15 +107,14 @@ html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body
 
 <h2>Biography</h2>
   <p>
-  I am an undergraduate student majoring in Financial Technology and Artificial Intelligence in The Hong Kong Polytechnic University. 
-  I am forturnately to conduct research under the supervision by Prof. <a href='https://yulequan.github.io/' target="_blank">Lequan Yu</a>. My research interest lies on AI for healthcare, Natural Language processing, etc. 
+  I am an second year undergrad majoring in Computer Science and Engineering in Tianjin University of Technology. 
+  I am forturnately to conduct research under the supervision by Prof. <a href='https://cs.tjut.edu.cn/' target="_blank">Meng Zhao</a>. My research interest lies on AI for healthcare, Natural Language processing, etc. 
   </p>
   <p>
   I am organizing a WeChat Group to communicate about MS/PHD Application in 2023 fall, if you are intersted, feel free to contact me, I will invite you to join the group.
   Besides, I am happy to make new <a href="#friends">friends</a>, you may contact with your personal introduction.
   </p>
   <p>
-  My idol is <a href="https://twitter.com/elonmusk" target="_blank">Eron Reeve Musk</a>, &#128640; I believe the future of human being lies in the universe. &#127756; <b>The stars, my destination!</b> &#128301;
   </p>
 	
 	
@@ -257,7 +256,18 @@ None
 </div>
 </ul>
 
-=
+<h2>Miscellanies</h2>
+<div id="friends">
+  <h4>Some of My Friends &#129308;&#129307;</h4> 
+  Xiangzhi Wang (PolyU),&nbsp
+  <a href="https://yubo.space/"  target="_blank">Yubo Zhang (PolyU)</a>,&nbsp
+  <a href="https://mfp0610.github.io/"  target="_blank">Fanpeng Meng (HUST)</a>,&nbsp
+  <a href="https://zhowards.github.io/" target="_blank">Tuohan Zhou (PolyU)</a> ,&nbsp
+  <a href="https://yanjieze.com/"  target="_blank">Yanjie Ze (SJTU)</a>,&nbsp
+  <a href="https://github.com/songrise"  target="_blank">Ruixiang Jiang (PolyU)</a>,&nbsp
+  <a href="https://blog.csdn.net/weixin_39591031"  target="_blank">Zewen Pan (PolyU)</a>
+ 
+    
 </div>
 <h4>My Hobbies &#10004;</h4>
     Soccer &#9917;,&nbsp <a href="https://fo4.qq.com/"target="_blank">FIFA OL4</a> &#127918;,&nbsp Movies &#127909;
@@ -267,7 +277,12 @@ None
 <div id="footer">
   <div id="footer-text"></div>
 </div>
-
+      <div align="center">
+        This page has been visited for
+          <a href="https://www.easycounter.com/">
+          <img src="https://www.easycounter.com/counter.php?zhewang" border="0" alt="HTML Hit Counter"></a>times
+          
+      </div> 
 <p><center>
   <div align="center" style="width:20%">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=grr8tSJTdsbdU-vHO6Of-5W7jpLTZvSVYTu6BUgf02M"></script>
