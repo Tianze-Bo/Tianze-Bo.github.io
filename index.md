@@ -1,303 +1,202 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cye-nm">
-<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="shortcut icon" href="./2.png">
-	
-<meta name="keywords" content="tianzebo, TianzeBO, TJUT, TianzeBO, 薄添泽, BO Tianze, BO TIANZE, bo tianze, Tianze BO, TJUT，天津">
-<meta name="description" content="Zhe WANG&#39;s Home Page">
-<!--<meta name="360-site-verification" content="d423d8da2550ca5def68c898ec0f4a36" />-->
-<link rel="stylesheet" href="./css/jemdoc.css" type="text/css">
-
-<title>Tianze BO | 薄添泽</title>
-
-<script type="text/javascript" async="" src="./css/ga.js"></script><script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-39824124-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-<style id="nightModeStyle">
-html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) body,
-html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body {-webkit-filter:contrast(91%) brightness(84%) invert(1);}</style><style id="cyebody">html.cye-enabled.cye-lm body{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyediv">html.cye-enabled.cye-lm div{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetable">html.cye-enabled.cye-lm th{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm td{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetextInput">html.cye-enabled.cye-lm input[type=text]{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm textarea{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeselect">html.cye-enabled.cye-lm select{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeul">html.cye-enabled.cye-lm ul{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeChangeByClick">html.cye-enabled.cye-lm .cye-lm-tag,html.cye-enabled.cye-lm.cye-lm-tag{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style>
-<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
-.en-markup-crop-options {
-    top: 18px !important;
-    left: 50% !important;
-    margin-left: -100px !important;
-    width: 200px !important;
-    border: 2px rgba(255,255,255,.38) solid !important;
-    border-radius: 4px !important;
+<link rel="stylesheet" href="./assests/css/mfp.css" type="text/css">
+<title>Fanpeng Meng</title>
+<style type="text/css">
+BODY {
+	BACKGROUND-COLOR: #ffffff
 }
-<script> 
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-82384246-1', 'auto');
-  ga('send', 'pageview');
-</script>
-.en-markup-crop-options div div:first-of-type {
-    margin-left: 0px !important;
+.style1 {
+	FONT-SIZE: 16px; FONT-FAMILY: "Times New Roman";
+}
+.style2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px FONT-FAMILY:"Times New Roman"
+}
+.style7 {
+	FONT-WEIGHT: bold; FONT-SIZE: x-large; FONT-FAMILY:"Times New Roman"
+}
+.style8 {
+	font-family: "Times New Roman";
+	font-size: 36px;
+}
+.style9 {
+	font-family: "Times New Roman";
+	FONT-SIZE: 18px
+}
+.style12 {
+	font-family: "Times New Roman";
+	FONT-SIZE: 20px
+}
+.style13 {
+	FONT-SIZE: 12px; FONT-FAMILY: Times New Roman
+}
+.style17 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; FONT-FAMILY: Times New Roman
+}
+.STYLE18 {
+	font-family: "Times New Roman";
+	font-size: 36px;
 }
 </style>
-
-	
-	
 </head>
-<body ryt12610="1">
-<!--<nav class="navbar navbar-dark navbar-expand-lg fixed-top">
-    <div id="layout-menu">
-        <a href=" ">Home</a>
-        <a href="#biography">Biography</a>
-	<a href="#experience">Experience</a>
-        <a href="#publications">Publications</a>
-        <a href="#awards">Awards</a>
-        <a href="#skills">Skills</a>
-    </div>
-</nav>-->
-	
-<div id="layout-content" style="margin-top:15px">
 
-<table>
-  <tbody>
-    <tr>
-      <td width="670">
-        <div id="toptitle">
-          <h1>Tianze BO&nbsp;薄添泽</h1>  <br><br>
-          <h4><rem>FORTI NINIL DIFFICILE<br>VIRTUTE FORTUNA COMES<br>VENI, VIDI, VICI</br></rem></h4>
-          <!--<h4><rem>VIRTUTE FORTUNA COMES</rem></h4>-->
-          <!--<h4><rem>VENI, VIDI, VICI</rem></h4>-->
-        
-        <h3>Undergrad Student</a></h3>
-        <p>
-          <a href='cs.tjut.edu.cn' target="_blank">School of Computer Science and Engineering</a>  <br>
-          <a href='www.tjut.edu.cn' target="_blank">Tianjin University of Technology</a>  <br>
-          <a href=" " target="_blank">Xiqing, Tianjin</a><br>
-          <br>
-          Email: <a href="mailto:joelwinston@stud.tjut.edu.cn" target="_blank">joelwinston@stud.tjut.edu.cn</a><br>
-	        Curriculum Vitae: <a href=" " target="_blank"><img src="" height="20px" style="margin-bottom:-3px"></a><br>
-	  
-        
-        </p>
-        <p>
-          </div>
-	<a href="mailto:joelwinston@stud.tjut.edu.cn" target="_blank"><img src="./images/mail.jpeg" height="30px" style="margin-bottom:-3px"></a>
-   <a href=" " target="_blank"><img src="./images/phone.png" height="30px" style="margin-bottom:-3px"></a>
-	<a href=" " target="_blank"><img src="./images/github.jpeg" height="30px" style="margin-bottom:-3px"></a>
-  <a href=" " target="_blank"><img src="./images/researchgate.png" height="30px" style="margin-bottom:-3px"></a>
-	<a href="https://www.linkedin.com/in/zhe-wang-b946681a5/" target="_blank"><img src="./images/linkedin.png" height="30px" style="margin-bottom:-3px"></a>
-	<a href="https://www.zhihu.com/people/er-hou-qing-shang-i" target="_blank"><img src="./images/zhihu1.png" height="30px" style="margin-bottom:-3px"></a>
-   <a href=" " target="_blank"><img src="./images/twitter.png" height="30px" style="margin-bottom:-3px"></a>
-	<a href="https://connectpolyu-my.sharepoint.com/personal/19080037d_connect_polyu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F19080037d%5Fconnect%5Fpolyu%5Fhk%2FDocuments%2FWechatIMG181%2Ejpeg&parent=%2Fpersonal%2F19080037d%5Fconnect%5Fpolyu%5Fhk%2FDocuments&p=14" target="_blank"><img src="./images/wechat1.png" height="30px" style="margin-bottom:-3px"></a>	
-  <a href=" " target="_blank"><img src="./images/soccer.png" height="30px" style="margin-bottom:-3px"></a>
-	</p>
-      </td>
-      <td>
-	<div style="float:right"><img src="./images/zhewang.png" border="0" width="260"></div>
-      </td>
-    </tr><tr>
-  </tr></tbody>
+<body data-new-gr-c-s-check-loaded="14.990.0" data-gr-ext-installed="">
+<div id="layout-content">
+<div id="toptitle">
+	<h1>Fanpeng Meng's Homepage</h1>
+</div>
+
+<table class="imgtable">
+<tbody>
+<tr>
+	<td>
+		<img src="./assests/image/me.png" alt="Fanpeng Meng" width="180px" height="228px">
+	</td>
+	<td align="left">
+		<span class="style7">Fanpeng(Frank) Meng <br>孟繁鹏</span>
+		<br><br>
+		Undergraduate student (graduating in 2023).<br>
+		<a href="http://aia.hust.edu.cn/" target="_blank">School of AI & Automation (AIA), </a><br>
+		<a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science & Technology (HUST), </a>China.<br> 
+		<br><br>
+		Email: <a href="mailto:fanpengmeng@foxmail.com" target="_blank">fanpengmeng@foxmail.com</a><br>
+		Wechat: mfp0610<br>
+		<a href="https://github.com/mfp0610" target="_blank">Github</a>&nbsp
+		<a href="https://www.linkedin.com/in/fanpeng-meng-0610/" target="_blank">LinkedIn</a>
+		<br><br>
+		Here is my <a href="./assests/resume/CV_Meng.pdf" target="_blank">CV</a>. 
+		<!--(<a href="./assests/resume/CV_CH.pdf" target="_blank">Chinese</a>)-->
+	</td>
+</tr>
+</tbody>
 </table>
 
 <h2>Biography</h2>
-  <p>
-  I am an second year undergrad majoring in Computer Science and Engineering in Tianjin University of Technology. 
-  I am forturnately to conduct research under the supervision by Prof. <a href='https://cs.tjut.edu.cn/' target="_blank">Meng Zhao</a>. My research interest lies on AI for healthcare, Natural Language processing, etc. 
-  </p>
-  <p>
-  I am organizing a WeChat Group to communicate about MS/PHD Application in 2023 fall, if you are intersted, feel free to contact me, I will invite you to join the group.
-  Besides, I am happy to make new <a href="#friends">friends</a>, you may contact with your personal introduction.
-  </p>
-  <p>
-  </p>
-	
-	
-<h2>News</h2>
-<!--<div style="height: 240px; overflow: auto;">-->
 <ul>
-<li>
-[12/2021] Fortunately I will conduct my Work-Integrated-Education Internship remotely in <a href="https://ist.sjtu.edu.cn/" target="_blank">IST lab</a>, Shanghai Jiaotong University. I am so haapy to be supervsied by Prof. Hu! &#128170;
-</li>
-<li>
-[09/2021] I will join MedML Lab, The University of Hong Kong to conduct undergraduate research, it is my great honour to be supervised by Prof. Yu! &#128523;
-</li> 
-<li>
-[07/2021] Our URIS project has been approved, Congrats to all of the group members! &#127881; Thanks for the kindly help and supervision by Prof. Yang! &#9994;
-</li>					
+	<p>
+		I am an undergraduate student in AIA, HUST, interested in computer vision, AI, robotics & SLAM. <br>
+		Currently I am actively searching for RA or Research Intern position (both onsite and remote).
+	</p>
 </ul>
-<!--</div>-->
-	
+
+<h2>News</h2>
+<ul>
+	<li>[Sep 2021] Join SINC-Lab, HUST, supervsied by Prof. Yang Cao. </li>
+	<li>[Jul 2021] Join AI Lab, Suzhou Zhito Technology as an algorithm engineer intern for SLAM based on vision, 
+		supervised by Dr. Jiali Bao.</li> 
+	<li>[Jan 2021] Join Suzhou R&D Center, Changchun Yidong Clutch as a software engineer intern for embedded system, 
+		control system and algorithm, supervised by Dr. Xianping Xie.</li>
+</ul>
+
+<h2>Research Interests</h2>	
+<ul>
+	<li><p>Computer Vision</p></li>
+	<li><p>Robotics & SLAM</p></li>
+	<li><p>Weakly Supervised Learning</p></li>
+</ul>
+
 <h2>Education</h2>
 <ul>
-  
-  <div id="polyu education">
-  <img style="position:absolute;margin-left:530px" src="./images/polyu.png" border="0" width="350">
-  <li>
-  <b>The Hong Kong Polytechnic University</b>&nbsp;&nbsp;&nbsp;&nbsp;2019.09&nbsp;-&nbsp;2023.06
-  </li>
-  Major: Financial Technology & Artificial Intelligence<br>
-  Minor: Applied Mathematics
-  </div>
-  <br>
-
-  <div id="cambridge education">
-  <img style="position:absolute;margin-left:550px" src="./images/cambridge.png" border="0" width="250">
-  <li>
-  <b>University of Cambridge, Girton College</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.07&nbsp;-&nbsp;2021.08
-  </li>
-  Summer School<br>
-  Mathematics for Engineer
-  </div>
-
+	<li>
+		<b>Huazhong University of Science & Technology (HUST)</b> <br>
+		B.Eng, Automation, School of Artificial Intelligence & Automation (AIA),<br>
+		Sep 2019 - Jul 2023 &nbsp Wuhan, China<br>
+		GPA: 3.63/4.00<br>
+	</li>
+	<br>
+	<li>
+		<b>University of Cambridge</b> <br>
+		Summer Research Program, Artificial Intelligence, Department of Computer Sceince & Technology (CST),<br>
+		Jul 2021 - Sep 2021 &nbsp Cambridge, England<br>
+		Grade: A+ &nbsp Project: Human-tracking Robot in Crowded Situation.<br>
+		Supervisor: Prof. Pietro Lio.
+	</li>
 </ul>
 
-	
-<h2>Research Experience</h2>
-<ul>
-	
-  <div id="sjtu">
-  <img style="position:absolute;margin-left:530px" src="./images/sjtu.png" border="0" width="290">
-  <li>
-  <b>Shanghai Jiaotong University</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.12&nbsp;-&nbsp;2022.02
-  </li>
-  <a href="http://www4.comp.polyu.edu.hk/~csrchang/WIE-COMP.pdf" target="_blank">Work-Integrated-Education Internship</a><br>
-  Supervisor: Prof. <a href=' ' target="_blank">Pan Hu</a> 
-  <p>Topic: TBD</p>
-  </div>
-  <br>
-
-  <div id="hku">
-    <img style="position:absolute;margin-left:530px" src="./images/hku.png" border="0" width="350">
-  <li>
-  <b>The University of Hong Kong</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.09&nbsp;-&nbsp;now
-  </li>
-  Undergraduate Research Intern</a><br>
-  Supervisor: Prof. <a href='https://yulequan.github.io/' target="_blank">Lequan Yu</a>
-  <p>Topic: Multimodal tasks in Medical Image & Text Processing</p>
-  </div>
-  <br>
-
-  <div id="uris">
-  <img style="position:absolute;margin-left:530px" src="./images/polyu.png" border="0" width="350">
-  <li>
-  <b>The Hong Kong Polytechnic University</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.09&nbsp;-&nbsp;now
-  </li>
-  <a href="https://www.polyu.edu.hk/ous/uris/about-uris/" target="_blank">University Research Innovation Scheme (URIS)</a><br>Supervisor: Prof. <a href='https://yang7879.github.io/' target="_blank">Bo Yang</a> 
-  <p>Topic: 3D Reconstruction</p>
-  </div>
-  <br>
-
-  <div id="thu">
-    <img style="position:absolute;margin-left:530px" src="./images/thu.jpeg" border="0" width="250">
-  <li>
-  <b>Tsinghua University</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.03&nbsp;-&nbsp;2021.06
-  </li>
-  Undergraduate Research Intern</a><br>
-  Supervisor: Prof. <a href='http://nlp.csai.tsinghua.edu.cn/~lzy/' target="_blank">Zhiyuan Liu</a>  
-  <p>Topic: Legal document processing by NLP</p>
-  </div>
-
-</ul>
-
+<h2>Experience</h2>
+	<h3>Research Experience</h3>
+	<ul>
+		<li>
+			<b><a href="http://sinc-lab.cse.hust.edu.cn/tdythyw/" target="_blank">
+				EIC-SINC Lab</a><a href="http://sinc-lab.cse.hust.edu.cn/" target="_blank">
+				[CNweb]</a>, HUST</b><br>
+			UG Research Assistant<br>
+			Sep 2021 - Current &nbsp Wuhan, China<br>
+			<p>
+				Subject: Weakly Supervised Learning for Network Mode Classification and Prediction. <br>
+				Supervisor: Prof. Yang Cao
+			<ul>
+				<!--<li>Responsible for the design of classification algorithm using on the speckle getting from the original dataset, attempt
+				different loss function and compare their performance.</li>
+				<li>Analaaaaaaaaayze the features of the speckle and explore the relationship between the speckle and the original data.</li>-->
+			</ul>
+			</p>
+		</li>
+	</ul>
+	<h3>Professional Experience</h3>
+	<ul>
+		<li>
+			<b><a href="https://www.zhito.com/?l=en-us" target="_blank">
+				Suzhou Zhito Technology</a>
+				<a href="https://www.zhito.com?l=zh-cn" target="_blank">
+				[CNweb]</a>
+			</b><br>
+			Algorithm Engineer Intern,  AI Lab<br>
+			Jul 2021 - Sep 2021 &nbsp Shanghai, China<br>
+			Algorithm engineer intern for SLAM based on vision. <br>
+			<p><ul>
+				<li>Introducing GCN in the generation of keypoints and descriptors of SLAM, improved the step of feature matching.</li>
+				<li>Constructing the 3D semantic map with PCL, introducing PSPNet for semantic segmentation combining with the depth image from RGB-D camera. </li>
+			</ul></p>
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<b>Changchun Yidong Clutch CO.,LID Suzhou R&D Center
+				<a href="http://www.ccyd.com.cn/intro/13.html" target="_blank">
+				[CNweb]</a>
+			</b><br>
+			Software Engineer Intern, Software Development Department<br>
+			Jan 2021 - Mar 2021 &nbsp Suzhou, China<br>
+			Software engineer intern for embedded system, control system and algorithm. <br>
+			<p><ul>
+				<li>Designing part of the automatic clutch software architecture, applying the Rapid Application Develop (RAD).</li>
+				<li>Participating in the development of automatic clutch, using Simulink to design CPD module (calculate clutch status, 
+					and the position and action information of the clutch pedal), using INCA to complete the module test and vehicle calibration.</li>
+			</ul></p>
+		</li>
+	</ul>
 
 <h2>Publications</h2>
-None
-	<!--<ul>
-		* indicates equal contribution; <sup>†</sup> indicates corresponding authorship.
-	</ul>
-  <p><font face="Arial" size="4"><b>2021</b></font></p>
-  <ul>
-  <li>
-  <b><a href=' ' target="_blank">A Chinese Benchmark for Social Media Language Understanding</a></b><br>
-  Zexin Lu*, Keyang Ding*, <b>Zhe Wang</b>, Jing Li, and Lemao Liu.<br>
-  <em>Manuscript in preparation</em></br>
-  </li>
-	</ul>-->
-
-<h2>Awards</h2>
-<h4>Scholarships  &#127942;</h4>
-<li>Outbound Exchange Scholarship: The summer school in University of Cambridge with scholarship HK$5,000</li>
-<li>URIS Scholarship: Group project with funding HK$30,000 and scholarship HK$7,000</li>
-
-<h2>Social Activities</h2>
 <ul>
-<div id="bytedance">
-  <img style="position:absolute;margin-left:550px" src="./images/bytedance.png" border="0" width="250">
-  <li>
-  <b>ByteDance Campus Ambassador</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.03&nbsp;-&nbsp;now
-  </li>
-  Campus Ambassador in The Hong Kong Polytechnic University</a><br>
-  <br>
-</div>
+	None. 
 </ul>
 
-<h2>Skills</h2>
+<h2>Awards and Honors</h2>
 <ul>
-<div id="programming languages">
-  <img style="position:absolute;margin-left:550px" src="./images/python.png" border="0" width="250">
-  <li>
-  <b>Programming Languages &#128187;</b>
-  </li>
-  <p>Python, HTML5, CSS, JavaScript</p>
-</div>
-<br>
-<div id="programming languages">
-  <img style="position:absolute;margin-left:550px" src="./images/latex.png" border="0" width="250">
-  <li>
-  <b>Software & Tools &#128421;</b>
-  </li>
-  <p>Pytorch, Tensorflow, LaTex</p>
-</div>
+	<li><p>School Outstanding League Member (2021, 2020)</p></li>
+	<li><p>School Technical Innovation Scholarship (2020)</p></li>
+	<li><p>“Weipai” Seed Cup Innovative Software Algorithm Contest (2020) <b>Rank2(2/174)</b></p></li>
+	<li><p>HUST Renesas Cup Smart Car Competition (2020) <b>Rank4(4/82)</b></p></li>
+	<li><p>National Olympiad in Informatics in Provinces (NOIP) (2018) <b>First Prize</b></p></li>
 </ul>
 
-<h2>Miscellanies</h2>
-<div id="friends">
-  <h4>Some of My Friends &#129308;&#129307;</h4> 
-  Xiangzhi Wang (PolyU),&nbsp
-  <a href="https://yubo.space/"  target="_blank">Yubo Zhang (PolyU)</a>,&nbsp
-  <a href="https://mfp0610.github.io/"  target="_blank">Fanpeng Meng (HUST)</a>,&nbsp
-  <a href="https://zhowards.github.io/" target="_blank">Tuohan Zhou (PolyU)</a> ,&nbsp
-  <a href="https://yanjieze.com/"  target="_blank">Yanjie Ze (SJTU)</a>,&nbsp
-  <a href="https://github.com/songrise"  target="_blank">Ruixiang Jiang (PolyU)</a>,&nbsp
-  <a href="https://blog.csdn.net/weixin_39591031"  target="_blank">Zewen Pan (PolyU)</a>
- 
-    
-</div>
-<h4>My Hobbies &#10004;</h4>
-    Soccer &#9917;,&nbsp <a href="https://fo4.qq.com/"target="_blank">FIFA OL4</a> &#127918;,&nbsp Movies &#127909;
-    <p style="margin-top:3px">
-    </p>
+<h2>People</h2>
+<h3>Supervisors</h3>
+	<a href="http://ei.hust.edu.cn/lab/SINC-lab/caoyang.html" target="_blank">Yang Cao</a>: Professor of SINC-Lab, HUST. <br>
+	<a href="https://www.cl.cam.ac.uk/~pl219/" target="_blank">Pietro Lio</a>: Professor of Computer Lab, U of Cambridge. 
+<h3>Co-operators</h3>
+<h3>Friends</h3>
+	<a href="https://quwenjie.github.io" target="_blank">Wenjie Qu</a>: UG, HUST; &nbsp
+	<a href="https://zhe-wang0018.github.io/" target="_blank">Zhe Wang</a>: UG, PolyU.
 
 <div id="footer">
-  <div id="footer-text"></div>
+	<div class="foot">
+		<span> Last modified by Fanpeng Meng on Dec 8th, 2021. </span>
+	</div>
 </div>
-      <div align="center">
-        This page has been visited for
-          <a href="https://www.easycounter.com/">
-          <img src="https://www.easycounter.com/counter.php?zhewang" border="0" alt="HTML Hit Counter"></a>times
-          
-      </div> 
-<p><center>
-  <div align="center" style="width:20%">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=grr8tSJTdsbdU-vHO6Of-5W7jpLTZvSVYTu6BUgf02M"></script>
-  </div>        
-</center></p>
-
-
-<p>
-</p>
-<div align="center">Last updated by <a href='https://zhe-wang0018.github.io/' target="_blank">Zhe</a> on December, 8, 2021. &#9200;</div>
-<p>
-</p>
-
-
 </body>
-
 
 </html>
