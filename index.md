@@ -1,46 +1,288 @@
-# Welcome to Tianze Bo's （薄添泽） Pages !
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
-  //____________________________________________
-```css
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: lightblue;
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cye-nm">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" href="./images/favicon.ico">
+	
+<meta name="keywords" content="Tianze Bo, Tianze Bo, TJUT, Tianze Bo, 薄添泽, Tianze Bo, Tianze Bo, Tianze Bo, Tianze Bo, TJUT, Tianjin">
+<meta name="description" content="Tianze Bo&#39;s Home Page">
+<link rel="stylesheet" href="./css/jemdoc.css" type="text/css">
+
+<title>Tianze BO | 薄添泽</title>
+
+<script type="text/javascript" async="" src="./css/ga.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39824124-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<style id="nightModeStyle">
+html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) body,
+html.cye-enabled.cye-nm:not(*:-webkit-full-screen-ancestor) #cye-workaround-body {-webkit-filter:contrast(91%) brightness(84%) invert(1);}</style><style id="cyebody">html.cye-enabled.cye-lm body{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyediv">html.cye-enabled.cye-lm div{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetable">html.cye-enabled.cye-lm th{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm td{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyetextInput">html.cye-enabled.cye-lm input[type=text]{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}html.cye-enabled.cye-lm textarea{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeselect">html.cye-enabled.cye-lm select{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeul">html.cye-enabled.cye-lm ul{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style><style id="cyeChangeByClick">html.cye-enabled.cye-lm .cye-lm-tag,html.cye-enabled.cye-lm.cye-lm-tag{background-color:#cce8cf !important;border-color:rgb(51, 58, 51) !important;background-image:none !important;color:#000000  !important}</style>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
 }
-
-h1 {
-  color: red;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+<script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-82384246-1', 'auto');
+  ga('send', 'pageview');
+</script>
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
 }
 </style>
+
+	
+	
 </head>
-<body>
-```
-<table border="0">
-  
-  <tr>
-    <td width="25%">
-      <h1>Tianze Bo</h1>
-      <p><b>Undergrad</b></p>
-      <p><b>TJUT SCSE</b></p>
-      <p><b>E-mail：joelwinston@stud.tjut.edu.cn</b></p>
-      <p><b>Taiyuan,Shanxi,China</b></p>
-    </td>
-    <td width="25%">
-      <img src="/2.png" width="450%">      Me in highschool
-    </td>
-  </tr>
+<body ryt12610="1">
+<!--<nav class="navbar navbar-dark navbar-expand-lg fixed-top">
+    <div id="layout-menu">
+        <a href=" ">Home</a>
+        <a href="#biography">Biography</a>
+	<a href="#experience">Experience</a>
+        <a href="#publications">Publications</a>
+        <a href="#awards">Awards</a>
+        <a href="#skills">Skills</a>
+        <a href="./share/Curriculum Vitae.pdf" target="_blank">CV</a>
+    </div>
+</nav>-->
+	
+<div id="layout-content" style="margin-top:15px">
+
+<table>
+  <tbody>
+    <tr>
+      <td width="670">
+        <div id="toptitle">
+          <h1>Zhe WANG&nbsp;王哲</h1>  <br><br>
+          <h4><rem>FORTI NINIL DIFFICILE<br>VIRTUTE FORTUNA COMES<br>VENI, VIDI, VICI</br></rem></h4>
+          <!--<h4><rem>VIRTUTE FORTUNA COMES</rem></h4>-->
+          <!--<h4><rem>VENI, VIDI, VICI</rem></h4>-->
+        
+        <h3>Undergraduate Student</a></h3>
+        <p>
+          <a href='https://www.polyu.edu.hk/comp/' target="_blank">Department of Computing</a>  <br>
+          <a href='https://www.polyu.edu.hk/' target="_blank">The Hong Kong Polytechnic University</a>  <br>
+          <a href=" " target="_blank">Kowloon, Hong Kong</a><br>
+          <br>
+          Email: <a href="mailto:lionel.wang@connect.polyu.hk" target="_blank">lionel.wang@connect.polyu.hk</a><br>
+	        Curriculum Vitae: <a href=" " target="_blank"><img src="./images/cv.png" height="20px" style="margin-bottom:-3px"></a><br>
+	  
+        
+        </p>
+        <p>
+          </div>
+	<a href="mailto:lionel.wang@connect.polyu.hk" target="_blank"><img src="./images/mail.jpeg" height="30px" style="margin-bottom:-3px"></a>
+   <a href=" " target="_blank"><img src="./images/phone.png" height="30px" style="margin-bottom:-3px"></a>
+	<a href=" " target="_blank"><img src="./images/github.jpeg" height="30px" style="margin-bottom:-3px"></a>
+  <a href=" " target="_blank"><img src="./images/researchgate.png" height="30px" style="margin-bottom:-3px"></a>
+	<a href="https://www.linkedin.com/in/zhe-wang-b946681a5/" target="_blank"><img src="./images/linkedin.png" height="30px" style="margin-bottom:-3px"></a>
+	<a href="https://www.zhihu.com/people/er-hou-qing-shang-i" target="_blank"><img src="./images/zhihu1.png" height="30px" style="margin-bottom:-3px"></a>
+   <a href=" " target="_blank"><img src="./images/twitter.png" height="30px" style="margin-bottom:-3px"></a>
+	<a href="https://connectpolyu-my.sharepoint.com/personal/19080037d_connect_polyu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F19080037d%5Fconnect%5Fpolyu%5Fhk%2FDocuments%2FWechatIMG181%2Ejpeg&parent=%2Fpersonal%2F19080037d%5Fconnect%5Fpolyu%5Fhk%2FDocuments&p=14" target="_blank"><img src="./images/wechat1.png" height="30px" style="margin-bottom:-3px"></a>	
+  <a href=" " target="_blank"><img src="./images/soccer.png" height="30px" style="margin-bottom:-3px"></a>
+	</p>
+      </td>
+      <td>
+	<div style="float:right"><img src="./images/zhewang.png" border="0" width="260"></div>
+      </td>
+    </tr><tr>
+  </tr></tbody>
 </table>
 
-## Biography
-## News
-## Research Interest
+<h2>Biography</h2>
+  <p>
+  I am an undergraduate student majoring in Financial Technology and Artificial Intelligence in The Hong Kong Polytechnic University. 
+  I am forturnately to conduct research under the supervision by Prof. <a href='https://yulequan.github.io/' target="_blank">Lequan Yu</a>. My research interest lies on AI for healthcare, Natural Language processing, etc. 
+  </p>
+  <p>
+  I am organizing a WeChat Group to communicate about MS/PHD Application in 2023 fall, if you are intersted, feel free to contact me, I will invite you to join the group.
+  Besides, I am happy to make new <a href="#friends">friends</a>, you may contact with your personal introduction.
+  </p>
+  <p>
+  My idol is <a href="https://twitter.com/elonmusk" target="_blank">Eron Reeve Musk</a>, &#128640; I believe the future of human being lies in the universe. &#127756; <b>The stars, my destination!</b> &#128301;
+  </p>
+	
+	
+<h2>News</h2>
+<!--<div style="height: 240px; overflow: auto;">-->
+<ul>
+<li>
+[12/2021] Fortunately I will conduct my Work-Integrated-Education Internship remotely in <a href="https://ist.sjtu.edu.cn/" target="_blank">IST lab</a>, Shanghai Jiaotong University. I am so haapy to be supervsied by Prof. Hu! &#128170;
+</li>
+<li>
+[09/2021] I will join MedML Lab, The University of Hong Kong to conduct undergraduate research, it is my great honour to be supervised by Prof. Yu! &#128523;
+</li> 
+<li>
+[07/2021] Our URIS project has been approved, Congrats to all of the group members! &#127881; Thanks for the kindly help and supervision by Prof. Yang! &#9994;
+</li>					
+</ul>
+<!--</div>-->
+	
+<h2>Education</h2>
+<ul>
+  
+  <div id="polyu education">
+  <img style="position:absolute;margin-left:530px" src="./images/polyu.png" border="0" width="350">
+  <li>
+  <b>The Hong Kong Polytechnic University</b>&nbsp;&nbsp;&nbsp;&nbsp;2019.09&nbsp;-&nbsp;2023.06
+  </li>
+  Major: Financial Technology & Artificial Intelligence<br>
+  Minor: Applied Mathematics
+  </div>
+  <br>
+
+  <div id="cambridge education">
+  <img style="position:absolute;margin-left:550px" src="./images/cambridge.png" border="0" width="250">
+  <li>
+  <b>University of Cambridge, Girton College</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.07&nbsp;-&nbsp;2021.08
+  </li>
+  Summer School<br>
+  Mathematics for Engineer
+  </div>
+
+</ul>
+
+	
+<h2>Research Experience</h2>
+<ul>
+	
+  <div id="sjtu">
+  <img style="position:absolute;margin-left:530px" src="./images/sjtu.png" border="0" width="290">
+  <li>
+  <b>Shanghai Jiaotong University</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.12&nbsp;-&nbsp;2022.02
+  </li>
+  <a href="http://www4.comp.polyu.edu.hk/~csrchang/WIE-COMP.pdf" target="_blank">Work-Integrated-Education Internship</a><br>
+  Supervisor: Prof. <a href=' ' target="_blank">Pan Hu</a> 
+  <p>Topic: TBD</p>
+  </div>
+  <br>
+
+  <div id="hku">
+    <img style="position:absolute;margin-left:530px" src="./images/hku.png" border="0" width="350">
+  <li>
+  <b>The University of Hong Kong</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.09&nbsp;-&nbsp;now
+  </li>
+  Undergraduate Research Intern</a><br>
+  Supervisor: Prof. <a href='https://yulequan.github.io/' target="_blank">Lequan Yu</a>
+  <p>Topic: Multimodal tasks in Medical Image & Text Processing</p>
+  </div>
+  <br>
+
+  <div id="uris">
+  <img style="position:absolute;margin-left:530px" src="./images/polyu.png" border="0" width="350">
+  <li>
+  <b>The Hong Kong Polytechnic University</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.09&nbsp;-&nbsp;now
+  </li>
+  <a href="https://www.polyu.edu.hk/ous/uris/about-uris/" target="_blank">University Research Innovation Scheme (URIS)</a><br>Supervisor: Prof. <a href='https://yang7879.github.io/' target="_blank">Bo Yang</a> 
+  <p>Topic: 3D Reconstruction</p>
+  </div>
+  <br>
+
+  <div id="thu">
+    <img style="position:absolute;margin-left:530px" src="./images/thu.jpeg" border="0" width="250">
+  <li>
+  <b>Tsinghua University</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.03&nbsp;-&nbsp;2021.06
+  </li>
+  Undergraduate Research Intern</a><br>
+  Supervisor: Prof. <a href='http://nlp.csai.tsinghua.edu.cn/~lzy/' target="_blank">Zhiyuan Liu</a>  
+  <p>Topic: Legal document processing by NLP</p>
+  </div>
+
+</ul>
 
 
+<h2>Publications</h2>
+None
+	<!--<ul>
+		* indicates equal contribution; <sup>†</sup> indicates corresponding authorship.
+	</ul>
+  <p><font face="Arial" size="4"><b>2021</b></font></p>
+  <ul>
+  <li>
+  <b><a href=' ' target="_blank">A Chinese Benchmark for Social Media Language Understanding</a></b><br>
+  Zexin Lu*, Keyang Ding*, <b>Zhe Wang</b>, Jing Li, and Lemao Liu.<br>
+  <em>Manuscript in preparation</em></br>
+  </li>
+	</ul>-->
+
+<h2>Awards</h2>
+<h4>Scholarships  &#127942;</h4>
+<li>Outbound Exchange Scholarship: The summer school in University of Cambridge with scholarship HK$5,000</li>
+<li>URIS Scholarship: Group project with funding HK$30,000 and scholarship HK$7,000</li>
+
+<h2>Social Activities</h2>
+<ul>
+<div id="bytedance">
+  <img style="position:absolute;margin-left:550px" src="./images/bytedance.png" border="0" width="250">
+  <li>
+  <b>ByteDance Campus Ambassador</b>&nbsp;&nbsp;&nbsp;&nbsp;2021.03&nbsp;-&nbsp;now
+  </li>
+  Campus Ambassador in The Hong Kong Polytechnic University</a><br>
+  <br>
+</div>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+<div id="programming languages">
+  <img style="position:absolute;margin-left:550px" src="./images/python.png" border="0" width="250">
+  <li>
+  <b>Programming Languages &#128187;</b>
+  </li>
+  <p>Python, HTML5, CSS, JavaScript</p>
+</div>
+<br>
+<div id="programming languages">
+  <img style="position:absolute;margin-left:550px" src="./images/latex.png" border="0" width="250">
+  <li>
+  <b>Software & Tools &#128421;</b>
+  </li>
+  <p>Pytorch, Tensorflow, LaTex</p>
+</div>
+</ul>
+
+=
+</div>
+<h4>My Hobbies &#10004;</h4>
+    Soccer &#9917;,&nbsp <a href="https://fo4.qq.com/"target="_blank">FIFA OL4</a> &#127918;,&nbsp Movies &#127909;
+    <p style="margin-top:3px">
+    </p>
+
+<div id="footer">
+  <div id="footer-text"></div>
+</div>
+
+<p><center>
+  <div align="center" style="width:20%">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=grr8tSJTdsbdU-vHO6Of-5W7jpLTZvSVYTu6BUgf02M"></script>
+  </div>        
+</center></p>
+
+
+<p>
+</p>
+<div align="center">Last updated by <a href='https://zhe-wang0018.github.io/' target="_blank">Zhe</a> on December, 8, 2021. &#9200;</div>
+<p>
+</p>
+
+
+</body>
+
+
+</html>
