@@ -1,28 +1,21 @@
 # Welcome to Tianze Bo's （薄添泽） Pages !
-
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Tianze Bo</h1>
+      <p><b>Undergrad</b></p>
+      <p><b>TJUT SCSE</b></p>
+      <p><b>E-mail：joelwinston@stud.tjut.edu.cn</b></p>
+      <p><b>Taiyuan,Shanxi,China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/2.png" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 ## Biography
 ## News
-### Research Interest
+## Research Interest
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tianze-Bo/Tianze-Bo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
